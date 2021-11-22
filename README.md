@@ -6,7 +6,9 @@
     构造该资源的宗旨是在伦理计算领域，为中文文本道德判断和倾向性分析提供一个便捷可靠的辅助手段。
     中文道德词典可以用于解决道德分类的问题，同时也可以用于解决一般的倾向性分析问题。  
 ### 2. 论文链接  
-    URL:https://www.aclweb.org/anthology/2020.ccl-1.50
+    URL:http://jcip.cipsc.org.cn/CN/abstract/abstract3202.shtml
+    王弘睿,刘畅,于东. 面向人工智能伦理计算的中文道德词典构建方法研究[J]. 中文信息学报, 2021, 35(10): 39-47,55. 
+    WANG Hongrui, LIU Chang, YU Dong. A Chinese Moral Dictionary for Artificial Intelligence Ethical Computing. , 2021, 35(10): 39-47,55.
 ### 3. 格式示例
     中文道德词典中，一般的格式为：
 
